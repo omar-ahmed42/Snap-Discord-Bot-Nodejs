@@ -1,2 +1,2 @@
-# Snap-DiscordBot-Nodejs
+# Snap-Discord-Bot-Nodejs
  
